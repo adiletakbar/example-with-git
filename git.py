@@ -1,2 +1,5 @@
 print("hello gitte")
-print("Git example second variant")
+
+print ("second++")
+print ("third")
+print("444")
